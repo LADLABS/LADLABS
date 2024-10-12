@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **LADLABS/LADLABS** is a ✨ _special_ ✨ repository 
 # 👨‍💻 IT Development Laboratory for New Ideas Projects
 
