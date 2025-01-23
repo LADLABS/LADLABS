@@ -27,7 +27,6 @@ Welcome to **IT Development Laboratory** – where innovative ideas turn into gr
 
 ## 📈 Our Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LADLABS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LADLABS&layout=compact&theme=radical)
 
 ---
 
